@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "inspiring-folio-447308-r3",
+  "private_key_id": "37521cb4f054687d84bc5bfe9c56ca6a028a1a58",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCMSBYS5Zt4xy5C\nqQi5xbL75A3wYqVSvB9Bjn8VfqptMEbYL6uVVSW/PZxDpSTGN91T01GJrkaQ+jGS\nUZB+Wus7Ivp3/32PwiaNus58khjtNTGZ9Zo2z3uXwCaHGh0q/kbOic6/EPNiowqr\nifAPNdd2VR9DXLAE8IZtpsi+OK6tDi4vsSyI64CEL+swlnC1qlrEi4u6lHgCNRW6\nroGCWBLs1Pi7JwVb65Y8xL63e7zXJ8SjT/rq4QtmQlFm9/b6eLWm6YPCiRiz3VRV\nJqlI5lByGHplSM2uMxiA95DNAL36syEjBDsZhft9Onz6vfGhZGLE0ERtJo8X87VZ\nt4/mnrVnAgMBAAECggEAELGXZuJKESJq3+XrsufS9+TYv82NbP4UHiIN/4nWUC4Z\nkCqEGb5LQqnbSbWCXdBSF2KjZmYF4cTUV1w7fL3nFl+APP17fLsXCXC8l9hu/POC\nlpbCplkklRd5vkQeSnp+BKAjqVskC43pfCZrGfRHUr6ofMSv8baJ2MyrQO/P4aoM\nPCUB2e7P+7yRP7SSx6a0fMbGsw9DDEvj4LsPhwGxf8BY27nTiZgEf+cItTaozf7Y\nhYk0TZoHVBztDsalpN7TTlKKLIHJfAhToi48VQ0NWTcxPNZLQhoy0/gDgxlKa8if\nK2HopqP6rt48yU9ZaWZPv8eWVHs+7PxDu1gBlxNaiQKBgQC/FC8jvV6QY8pwarXd\n1X6ZFJq8Umfw1AbxWCT0cl7I9dW9/z5SXDj1KKs4fDrX6u7nMRZJSzgvIu5upPpu\nzYYQz2FE0AZc30it2+NsC10oS1cg1oBoVakyb5KaLmFBSLgpPqCdh1JZRFdsQLjT\nJHZ/tEJeZVxQy0V5Cq57p9cN8wKBgQC78Z2bdTuJEly3Qo0mcsAN245abM2xoyMC\nQng2Crbu/jDOvQCnEdTlKNw4dilsiHJKk2uPVAVDp/4kWfIYW4skS6NokUj+zHqq\nAImhpEwfYN6+88zCKUGOKGji9DQZsYT3Cd9UrqPZzKqeP7XsE9VlFJSoJ1DPtJjx\nDfPgYSYzvQKBgQC4j0Fc7vtY0dpmLNwPMbh/GaS/w4S727/8+xtutM2So8jZJKHI\noWUufyKqg2u+xCAPVJ1nG+1fsgjE/DscLQ2STQxxj9ClgdHMhDgtUuifE+5LPIR4\nwkyT96qNm8C6cwfWZrRyk5NZv6YFXJpo7q46eR0l2heJvl0TJdsUezBAOwKBgFuL\nWsuIFNG1YffZsMsThby6PuKIsMBfyAOnwMoB+gz7P2bT5Od75gkhF/NgitjUtWbh\n27haop3LzByEu0ll/aZWOWgLrFR/4RfBX0iesH1wP88fDZNdaRMHV9+EN4R0VWHH\nK0MiNak26bxfKAuvtXegyLAHRnOFciGoPCwE5gi5AoGBAKPOXH+cjsp1Q+jhqKPu\nzgeaLqRdT51pU7ohETsAE0bHkHdNLLtNziiReR9n9YKfOIw3DRwe1Wm6c2k/lsSD\n/M3KdthVROQHvOusyIgcyPamFQbD4GDdzG83voFYAcJOlJjdFejec4BkPe0jeE/4\np6jTe5caVdMds5XHnEJVTvk6\n-----END PRIVATE KEY-----\n",
+  "client_email": "validating@inspiring-folio-447308-r3.iam.gserviceaccount.com",
+  "client_id": "100718539788677879427",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/validating%40inspiring-folio-447308-r3.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
